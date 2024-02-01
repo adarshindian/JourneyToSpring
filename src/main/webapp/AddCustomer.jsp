@@ -93,7 +93,7 @@
 	<div id="dropDownSelect1"></div>
 
 	<!--===============================================================================================-->
-	<script src="templates/js/main.js"></script>
+	<script src="templates/templates/js/main.js"></script>
 
 
 
