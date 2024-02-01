@@ -7,6 +7,7 @@
 <title>Dashboard</title>
 </head>
 <body>
+Hi This is Dashboard
 
 </body>
 </html>
